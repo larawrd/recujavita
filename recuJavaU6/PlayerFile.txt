@@ -1,0 +1,3 @@
+id_player nameP games victories
+1 aitana 4 2
+2 aitana2 6 1
